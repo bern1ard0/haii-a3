@@ -6,7 +6,7 @@ _If you completed Assignment 1 with the same machine, then you've already done t
 Install Anaconda Python 3.6 (or greater). [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/) You'll need Jupyter Notebook, pandas, and matplotlib, at the very least.
 
 ## Step #2 Download homework files
-Download the `ipynb` notebook file in this repository as well as `data.zip`. Place both of these files into a well-named folder on your computer, and click on the zip file to unzip the data folder. Rename the `.ipynb` file to `[yourunix]_haii20a[assignmentnumber].ipynb`, e.g., `ikh1_haii20a3.ipynb`. You will submit this file to Glow when completed.
+Download the `ipynb` notebook file in this repository as well as `data.zip`. Place both of these files into a well-named folder on your computer, and click on the zip file to unzip the data folder. Rename the `.ipynb` file to `[yourunix]_haii20a[assignmentnumber].ipynb`, e.g., `ikh1_haii21a3.ipynb`. You will submit this file to Glow when completed.
 
 ## Step #3 (Terminal Option)
 In your terminal, navigate to your homework folder and run `jupyter notebook .` to start the notebook. A notebook session should open up in your browser.
@@ -32,6 +32,7 @@ If you haven't used Jupyter Notebooks before, a good first step for you would be
 - Visualization:
     * [Visualization in Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
     * [Visualization in matplotlib](https://matplotlib.org/gallery/index.html)
+    * [Python Graph Gallery](https://www.python-graph-gallery.com/) 
 - Pandas:
     * [DataFrame.drop_duplicates(..)](https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/)
     * [Filtering rows from a DataFrame](https://www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/)
