@@ -8,7 +8,7 @@ Install Anaconda Python 3.6 (or greater). [https://www.anaconda.com/distribution
 If you are using a lab machine (or lack space on your personal machine), anaconda python is too large! You have two options: (1) follow the instructions for Google Colab below or (2) use Jupyter notebooks via the default python by opening the files in VS code and `pip install` the various modules as needed.
 
 ## Step #2 Download homework files
-Download the `ipynb` notebook file in this repository as well as `data.zip`. Place both of these files into a well-named folder on your computer, and click on the zip file to unzip the data folder. Rename the `.ipynb` file to `[yourunix]_haii20a[assignmentnumber].ipynb`, e.g., `ikh1_haii21a3.ipynb`. You will submit this file to Glow when completed.
+Download the `ipynb` notebook file in this repository as well as `data.zip`. Place both of these files into a well-named folder on your computer, and click on the zip file to unzip the data folder. Rename the `.ipynb` file to `[yourunix]_haiiYYa[assignmentnumber].ipynb`, where YY is the last two digits of this year (e.g., `ikh1_haii26a3.ipynb`). You will submit this file to Glow when completed.
 
 ## Step #3 Open the Jupyter Notebook
 
